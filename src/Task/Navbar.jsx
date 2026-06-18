@@ -7,6 +7,7 @@ function Navbar(){
             <Link className="btn btn-primary" to="/ExpenseTracker">ExpenseTracker</Link>
             <Link className="btn btn-danger" to="/ProfileCard">ProfileCard</Link>
             <Link className="btn btn-warning" to="/ProgressBar">ProgressBar</Link>
+            <Link className="btn btn-info" to="/StarRating">StarRating</Link>
         </div>
     )
 }
